@@ -1,7 +1,11 @@
 body {
     color: white;
+<<<<<<< HEAD
     background-color: #333;
     font-size: 150%;
     font-family: 'Satisfy', cursive;
     margin: 5em 25%;
+=======
+    background-color: blue;
+>>>>>>> 4996445b581230b51f10c287bc1845493a710c93
   }
